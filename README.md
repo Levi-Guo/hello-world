@@ -1,2 +1,2 @@
 # hello-world
-learning Git
+I wanna make somr different.
